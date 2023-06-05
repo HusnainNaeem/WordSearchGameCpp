@@ -69,6 +69,8 @@ Enjoy finding words in the Word Search grid!
 
 > **Note :** This documentation assumes that you have a basic understanding of C++ programming and how to compile and run C++ code.
 
+> *For better understanding and visulaization you can see documentation*
+
 > The words to be search are written in the board.txt file and to add further words add the word in the dictionary file change the board.txt file accordingly.
 
 > Must add all files in th project in order to compile it sucessfuly.
