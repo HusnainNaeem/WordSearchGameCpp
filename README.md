@@ -76,3 +76,4 @@ Enjoy finding words in the Word Search grid!
 > Must add all files in th project in order to compile it sucessfuly.
 
 > `Enjoy playing the Word Search Game!`
+*Thanks*
